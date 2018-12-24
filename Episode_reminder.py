@@ -1,7 +1,7 @@
 
 
 #  Script has to run manually for now. We can make a job_script to run it on specific time, everyday. 
-# Edit yyour faviourite episodes in list to get notifications.
+# Edit your faviourite episodes in list to get notifications.
 
 import urllib.request as ul
 import bs4 as bs
